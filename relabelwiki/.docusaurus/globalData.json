@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro/reboard-range/gameboy advance/install",
+          "docs": [
+            {
+              "id": "intro/reboard-range/gameboy advance/install",
+              "path": "/docs/intro/reboard-range/gameboy advance/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro/reboard-range/gameboy advance/product-info",
+              "path": "/docs/intro/reboard-range/gameboy advance/product-info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro/reboard-range/gameboy advance/tested-compatibility",
+              "path": "/docs/intro/reboard-range/gameboy advance/tested-compatibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro/reboard-range/gamegear/install",
+              "path": "/docs/intro/reboard-range/gamegear/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro/reboard-range/gamegear/product-info",
+              "path": "/docs/intro/reboard-range/gamegear/product-info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro/reboard-range/gamegear/tested-compatibility",
+              "path": "/docs/intro/reboard-range/gamegear/tested-compatibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/product-ranges",
+              "path": "/docs/category/product-ranges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/project-reboard",
+              "path": "/docs/category/project-reboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reboard-gba",
+              "path": "/docs/category/reboard-gba",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reboard-gg",
+              "path": "/docs/category/reboard-gg",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/product-ranges",
+                "label": "Product Ranges"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

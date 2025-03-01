@@ -1,0 +1,19 @@
+{
+  "id": "intro",
+  "title": "About Project ReLabel",
+  "description": "Welcome to the Project ReLabel Wiki! This is where you can find all the information about our products and how we can help you relabel your retro gaming consoles.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

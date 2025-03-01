@@ -1,0 +1,26 @@
+{
+  "id": "intro/reboard-range/gameboy advance - Copy/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/intro/reboard-range/gameboy advance - Copy/markdown-features.mdx",
+  "sourceDirName": "intro/reboard-range/gameboy advance - Copy",
+  "slug": "/intro/reboard-range/gameboy advance - Copy/markdown-features",
+  "permalink": "/docs/intro/reboard-range/gameboy advance - Copy/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/intro/reboard-range/gameboy advance - Copy/create-a-document"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/intro/reboard-range/gameboy advance - Copy/deploy-your-site"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "intro/reboard-range/gameboy advance - Copy/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/intro/reboard-range/gameboy advance - Copy/create-a-page.md",
+  "sourceDirName": "intro/reboard-range/gameboy advance - Copy",
+  "slug": "/intro/reboard-range/gameboy advance - Copy/create-a-page",
+  "permalink": "/docs/intro/reboard-range/gameboy advance - Copy/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ReBoard GBA",
+    "permalink": "/docs/category/reboard-gba-1"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/intro/reboard-range/gameboy advance - Copy/create-a-document"
+  }
+}
