@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrelabelwiki=self.webpackChunkrelabelwiki||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"ReBoard","permalink":"/blog/tags/reboard","description":"replacement PCBs","count":1}]}')}}]);
