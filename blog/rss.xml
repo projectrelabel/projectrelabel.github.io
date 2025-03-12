@@ -4,7 +4,7 @@
         <title>Project ReLabel Blog</title>
         <link>https://wiki.projectrelabel.com/blog</link>
         <description>Project ReLabel Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,10 +12,9 @@
             <title><![CDATA[ReBoard Showcase]]></title>
             <link>https://wiki.projectrelabel.com/blog/reboardshowcase</link>
             <guid>https://wiki.projectrelabel.com/blog/reboardshowcase</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is a Test Blog]]></description>
-            <content:encoded><![CDATA[<p>This is a Test Blog</p>]]></content:encoded>
-            <category>ReBoard</category>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A showcase of the currently available and soon to come ReBoard products.]]></description>
+            <content:encoded><![CDATA[<p>test blog</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

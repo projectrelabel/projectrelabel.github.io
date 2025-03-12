@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.projectrelabel.com/blog</id>
     <title>Project ReLabel Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-03-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.projectrelabel.com/blog"/>
     <subtitle>Project ReLabel Blog</subtitle>
@@ -11,13 +11,12 @@
         <title type="html"><![CDATA[ReBoard Showcase]]></title>
         <id>https://wiki.projectrelabel.com/blog/reboardshowcase</id>
         <link href="https://wiki.projectrelabel.com/blog/reboardshowcase"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a Test Blog]]></summary>
-        <content type="html"><![CDATA[<p>This is a Test Blog</p>]]></content>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A showcase of the currently available and soon to come ReBoard products.]]></summary>
+        <content type="html"><![CDATA[<p>test blog</p>]]></content>
         <author>
             <name>Asher</name>
             <uri>linkedin.com/</uri>
         </author>
-        <category label="ReBoard" term="ReBoard"/>
     </entry>
 </feed>
