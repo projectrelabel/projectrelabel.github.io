@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrelabelwiki=self.webpackChunkrelabelwiki||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing ReIgnite!","permalink":"/blog/reignite","unlisted":false,"date":"2025-04-01T00:00:00.000Z"}]}')}}]);
