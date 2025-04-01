@@ -13,12 +13,13 @@
         <link href="https://wiki.projectrelabel.com/blog/reignite"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Introducing our upcoming educational PCB range!]]></summary>
-        <content type="html"><![CDATA[<p>As a beginner in electroncs or soldering, you may find yourself overwhelmed with the sheer amount of confusing kits, boards and circuits to begin your journey. While there are some great learning PCBs out there, they can lack documentation and the quality is not guaranteed, as most are cheap resells from aliexpress. You may also find that they are too much of a leap into the deep end of electronics; thats where Project ReIgnite comes in.</p>
+        <content type="html"><![CDATA[<p>As a beginner in electronics or soldering, you may find yourself overwhelmed with the sheer amount of confusing kits, boards and circuits to begin your journey. While there are some great learning PCBs out there, they can lack documentation and the quality is not guaranteed, as most are cheap resells from aliexpress. You may also find that they are too much of a leap into the deep end of electronics; thats where Project ReIgnite comes in.</p>
 <p>We are designing a kit to bring you from total beginner in the field to being confident in both SMD and through hole soldering, and the basics of electronics. These skills are very valuable, give yourself the best chance by starting your journey with the best kit!</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="kit-overview">Kit Overview<a href="https://wiki.projectrelabel.com/blog/reignite#kit-overview" class="hash-link" aria-label="Direct link to Kit Overview" title="Direct link to Kit Overview">​</a></h2>
 <p>Our ReIgnite kit will be a staged set of linked boards, each involving either a different soldering method or electrical concept. Build your way through the kit and you will have a set of modules, showing you key concepts that will give you the knowledge to make your own circuit!</p>
 <p>Currently, the power board is being tested, see the 3D render below.</p>
-<img src="https://raw.githubusercontent.com/projectrelabel/projectrelabel.github.io/refs/heads/main/relabelwiki/static/img/powerboardpng.png">]]></content>
+<img src="https://raw.githubusercontent.com/projectrelabel/projectrelabel.github.io/refs/heads/main/relabelwiki/static/img/powerboardpng.png">
+<p>As the project progresses, more updates will be psoted, stay tuned!</p>]]></content>
         <author>
             <name>Asher</name>
             <uri>linkedin.com/</uri>
