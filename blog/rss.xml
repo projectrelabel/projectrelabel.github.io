@@ -4,17 +4,22 @@
         <title>Project ReLabel Blog</title>
         <link>https://wiki.projectrelabel.com/blog</link>
         <description>Project ReLabel Blog</description>
-        <lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[ReBoard Showcase]]></title>
-            <link>https://wiki.projectrelabel.com/blog/reboardshowcase</link>
-            <guid>https://wiki.projectrelabel.com/blog/reboardshowcase</guid>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A showcase of the currently available and soon to come ReBoard products.]]></description>
-            <content:encoded><![CDATA[<p>test blog</p>]]></content:encoded>
+            <title><![CDATA[Introducing ReIgnite!]]></title>
+            <link>https://wiki.projectrelabel.com/blog/reignite</link>
+            <guid>https://wiki.projectrelabel.com/blog/reignite</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing our upcoming educational PCB range!]]></description>
+            <content:encoded><![CDATA[<p>As a beginner in electroncs or soldering, you may find yourself overwhelmed with the sheer amount of confusing kits, boards and circuits to begin your journey. While there are some great learning PCBs out there, they can lack documentation and the quality is not guaranteed, as most are cheap resells from aliexpress. You may also find that they are too much of a leap into the deep end of electronics; thats where Project ReIgnite comes in.</p>
+<p>We are designing a kit to bring you from total beginner in the field to being confident in both SMD and through hole soldering, and the basics of electronics. These skills are very valuable, give yourself the best chance by starting your journey with the best kit!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kit-overview">Kit Overview<a href="https://wiki.projectrelabel.com/blog/reignite#kit-overview" class="hash-link" aria-label="Direct link to Kit Overview" title="Direct link to Kit Overview">​</a></h2>
+<p>Our ReIgnite kit will be a staged set of linked boards, each involving either a different soldering method or electrical concept. Build your way through the kit and you will have a set of modules, showing you key concepts that will give you the knowledge to make your own circuit!</p>
+<p>Currently, the power board is being tested, see the 3D render below.</p>
+<img src="https://raw.githubusercontent.com/projectrelabel/projectrelabel.github.io/refs/heads/main/relabelwiki/static/img/powerboardpng.png">]]></content:encoded>
         </item>
     </channel>
 </rss>
